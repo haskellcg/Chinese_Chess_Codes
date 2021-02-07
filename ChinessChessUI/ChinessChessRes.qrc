@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>1.ico</file>
+        <file>2.ico</file>
+        <file>3.ico</file>
+        <file>4.ico</file>
+        <file>5.png</file>
+        <file>6.png</file>
+        <file>7.png</file>
+        <file>8.png</file>
+        <file>Sounds/CAPTURE.WAV</file>
+        <file>Sounds/CAPTURE2.WAV</file>
+        <file>Sounds/CHECK.WAV</file>
+        <file>Sounds/CHECK2.WAV</file>
+        <file>Sounds/CLICK.WAV</file>
+        <file>Sounds/DRAW.WAV</file>
+        <file>Sounds/ILLEGAL.WAV</file>
+        <file>Sounds/LOSS.WAV</file>
+        <file>Sounds/MOVE.WAV</file>
+        <file>Sounds/MOVE2.WAV</file>
+        <file>Sounds/NEWGAME.WAV</file>
+        <file>Sounds/PROMOTE.WAV</file>
+        <file>Sounds/PROMOTE2.WAV</file>
+        <file>Sounds/WIN.WAV</file>
+    </qresource>
+</RCC>
